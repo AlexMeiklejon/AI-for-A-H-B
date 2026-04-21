@@ -1,7 +1,12 @@
-Fabric_ID,Page,Location,Latitude,Longitude,Description,Likely_Use,Confidence,Notes
-1,5,Unknown,,,,Unknown,Low,Fabric sample pasted into volume
-2,5,Unknown,,,,Unknown,Low,Fabric sample pasted into volume
-3,5,Unknown,,,,Unknown,Low,Fabric sample pasted into volume
-4,5,Unknown,,,,Unknown,Low,Fabric sample pasted into volume
-5,5,Unknown,,,,Unknown,Low,Fabric sample pasted into volume
-6,5,Unknown,,,,Unknown,Low,Fabric sample pasted into volume
+ID,Description,Material,Colour,Origin,Notes
+12,Used in religious ceremonies,Bark cloth,Yellow,Otaheite (Tahiti),Dyed with yellow juice
+5,Very strong textile that resists water,Bark cloth,Reddish-brown,Sandwich Island,Dyed the same as previous sample
+6,Used for bedding,Bark cloth,Light beige,Otaheite (Tahiti),Thin softer fabric
+19,Made from old cloth used for bedding,Bark cloth,Light beige,Unknown,Used by common people
+20,Grooved texture created with a piece of wood,Bark cloth,Light beige,Sandwich Island,Textured surface pattern
+22,Finely manufactured bark cloth,Bark cloth,Light beige with red speckling,Sandwich Island,High quality production
+23,Worn by priests,Bark cloth,Light beige,Sandwich Island,Religious use
+30,Covering used by common people,Bark cloth,Light beige,Owyhee (Hawaii),Everyday garment
+24,Worn by young women,Bark cloth,Reddish-brown striped,Sandwich Island,Oiled to reflect water
+25,Under garment; sometimes used for ornament,Bark cloth,Dark reddish-brown,Unknown,Dyed the same as previous
+26,Used as ornaments upon canoes,Bark cloth,Brown,Owyhee (Hawaii),Decorative use
