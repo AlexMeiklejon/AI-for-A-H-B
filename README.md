@@ -10,7 +10,6 @@ The project focuses on a catalogue of bark cloth (tapa) samples collected during
 - `ai_arts_portfolio.ipynb` – Main project notebook (START HERE)
 - `data/fabrics.csv` – Structured dataset of textile samples
 - `images/` – Photographs of the textile catalogue and samples
-- `references/sources.txt` – Academic sources used for background research
 
 ## How to View
 
